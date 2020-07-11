@@ -1,0 +1,27 @@
+[submodule "hw-campuspaths"]
+	path = hw-campuspaths
+	url = https://github.com/bellaroseee/SDI-hw-campuspaths
+[submodule "hw-setup"]
+	path = hw-setup
+	url = https://github.com/bellaroseee/SDI-hw-setup
+[submodule "hw-poly"]
+	path = hw-poly
+	url = https://github.com/bellaroseee/SDI-hw-poly
+[submodule "hw-pathfinder"]
+	path = hw-pathfinder
+	url = https://github.com/bellaroseee/SDI-hw-pathfinder
+[submodule "hw-marvel"]
+	path = hw-marvel
+	url = https://github.com/bellaroseee/SDI-hw-marvel
+[submodule "hw-graph"]
+	path = hw-graph
+	url = https://github.com/bellaroseee/SDI-hw-graph
+[submodule "hw-dots"]
+	path = hw-dots
+	url = https://github.com/bellaroseee/SDI-hw-dots
+[submodule "hw-campuspath-server"]
+	path = hw-campuspath-server
+	url = https://github.com/bellaroseee/SDI-hw-campuspath-server
+[submodule "hw-campuspaths-server"]
+	path = hw-campuspaths-server
+	url = https://github.com/bellaroseee/SDI-hw-campuspaths-server
